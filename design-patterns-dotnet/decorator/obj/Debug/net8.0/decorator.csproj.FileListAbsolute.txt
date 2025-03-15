@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\bin\Debug\net8.0\decorator.exe
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\bin\Debug\net8.0\decorator.deps.json
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\bin\Debug\net8.0\decorator.runtimeconfig.json
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\bin\Debug\net8.0\decorator.dll
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\bin\Debug\net8.0\decorator.pdb
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\obj\Debug\net8.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\obj\Debug\net8.0\decorator.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\obj\Debug\net8.0\decorator.AssemblyInfo.cs
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\obj\Debug\net8.0\decorator.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\obj\Debug\net8.0\decorator.dll
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\obj\Debug\net8.0\refint\decorator.dll
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\obj\Debug\net8.0\decorator.pdb
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\obj\Debug\net8.0\decorator.genruntimeconfig.cache
+C:\Users\mynam\Desktop\design-patterns-dotnet\design-patterns-dotnet\decorator\obj\Debug\net8.0\ref\decorator.dll

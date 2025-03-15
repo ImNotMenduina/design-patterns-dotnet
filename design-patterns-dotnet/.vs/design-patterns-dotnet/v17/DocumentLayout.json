@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\decorators\\characterdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\decorators\\characterdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\decorators\\flydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\decorators\\flydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\decorators\\jumpdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\decorators\\jumpdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\decorators\\speeddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\decorators\\speeddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\interface\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\interface\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\models\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\models\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlyDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\FlyDecorator.cs",
+              "RelativeDocumentMoniker": "decorator\\Decorators\\FlyDecorator.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\FlyDecorator.cs",
+              "RelativeToolTip": "decorator\\Decorators\\FlyDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:29:54.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Program.cs",
+              "RelativeDocumentMoniker": "decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Program.cs",
+              "RelativeToolTip": "decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:50:10.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Models\\Hero.cs",
+              "RelativeDocumentMoniker": "decorator\\Models\\Hero.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Models\\Hero.cs",
+              "RelativeToolTip": "decorator\\Models\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:45:34.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpeedDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\SpeedDecorator.cs",
+              "RelativeDocumentMoniker": "decorator\\Decorators\\SpeedDecorator.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\SpeedDecorator.cs",
+              "RelativeToolTip": "decorator\\Decorators\\SpeedDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:17:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\CharacterDecorator.cs",
+              "RelativeDocumentMoniker": "decorator\\Decorators\\CharacterDecorator.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\CharacterDecorator.cs",
+              "RelativeToolTip": "decorator\\Decorators\\CharacterDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:15:35.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Interface\\Character.cs",
+              "RelativeDocumentMoniker": "decorator\\Interface\\Character.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Interface\\Character.cs",
+              "RelativeToolTip": "decorator\\Interface\\Character.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:14:14.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JumpDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\JumpDecorator.cs",
+              "RelativeDocumentMoniker": "decorator\\Decorators\\JumpDecorator.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\JumpDecorator.cs",
+              "RelativeToolTip": "decorator\\Decorators\\JumpDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:12:55.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
