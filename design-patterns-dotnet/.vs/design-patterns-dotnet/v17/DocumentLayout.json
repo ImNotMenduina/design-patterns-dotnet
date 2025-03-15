@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|solutionrelative:observer\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\decorators\\characterdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\decorators\\characterdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\decorators\\flydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\decorators\\flydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\models\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|solutionrelative:observer\\models\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\models\\smarttv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|solutionrelative:observer\\models\\smarttv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|solutionrelative:observer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|solutionrelative:observer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\interfaces\\ismarttvlisteners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|solutionrelative:observer\\interfaces\\ismarttvlisteners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\interfaces\\inotebooklisteners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB3A7B8-56FD-4131-9D3E-885A7E141044}|observer\\observer.csproj|solutionrelative:observer\\interfaces\\inotebooklisteners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\decorators\\jumpdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +43,24 @@
       "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\decorators\\speeddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\interface\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\interface\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\decorators\\characterdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\decorators\\characterdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\models\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\models\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|c:\\users\\mynam\\desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\decorators\\flydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80522-4E9B-4C77-8864-BC332690084F}|decorator\\decorator.csproj|solutionrelative:decorator\\decorators\\flydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +78,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INotebookListeners.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Interfaces\\INotebookListeners.cs",
+              "RelativeDocumentMoniker": "observer\\Interfaces\\INotebookListeners.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Interfaces\\INotebookListeners.cs",
+              "RelativeToolTip": "observer\\Interfaces\\INotebookListeners.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:14:11.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISmartTvListeners.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Interfaces\\ISmartTvListeners.cs",
+              "RelativeDocumentMoniker": "observer\\Interfaces\\ISmartTvListeners.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Interfaces\\ISmartTvListeners.cs",
+              "RelativeToolTip": "observer\\Interfaces\\ISmartTvListeners.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:20:47.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "observer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Models\\User.cs",
+              "RelativeToolTip": "observer\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:19:14.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "observer\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Models\\Stock.cs",
+              "RelativeToolTip": "observer\\Models\\Stock.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:12:53.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Notebook.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Models\\Notebook.cs",
+              "RelativeDocumentMoniker": "observer\\Models\\Notebook.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Models\\Notebook.cs",
+              "RelativeToolTip": "observer\\Models\\Notebook.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:09:52.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "observer\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Models\\Product.cs",
+              "RelativeToolTip": "observer\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:06:14.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmartTV.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Models\\SmartTV.cs",
+              "RelativeDocumentMoniker": "observer\\Models\\SmartTV.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Models\\SmartTV.cs",
+              "RelativeToolTip": "observer\\Models\\SmartTV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:04:42.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Program.cs",
+              "RelativeDocumentMoniker": "observer\\Program.cs",
+              "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\observer\\Program.cs",
+              "RelativeToolTip": "observer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:52:57.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "FlyDecorator.cs",
               "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\FlyDecorator.cs",
               "RelativeDocumentMoniker": "decorator\\Decorators\\FlyDecorator.cs",
@@ -59,20 +195,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Program.cs",
               "RelativeDocumentMoniker": "decorator\\Program.cs",
               "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Program.cs",
               "RelativeToolTip": "decorator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T02:50:10.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Hero.cs",
               "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Models\\Hero.cs",
               "RelativeDocumentMoniker": "decorator\\Models\\Hero.cs",
@@ -85,52 +221,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "SpeedDecorator.cs",
               "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\SpeedDecorator.cs",
               "RelativeDocumentMoniker": "decorator\\Decorators\\SpeedDecorator.cs",
               "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\SpeedDecorator.cs",
               "RelativeToolTip": "decorator\\Decorators\\SpeedDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T02:17:41.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "CharacterDecorator.cs",
               "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\CharacterDecorator.cs",
               "RelativeDocumentMoniker": "decorator\\Decorators\\CharacterDecorator.cs",
               "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\CharacterDecorator.cs",
               "RelativeToolTip": "decorator\\Decorators\\CharacterDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T02:15:35.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Interface\\Character.cs",
               "RelativeDocumentMoniker": "decorator\\Interface\\Character.cs",
               "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Interface\\Character.cs",
               "RelativeToolTip": "decorator\\Interface\\Character.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T02:14:14.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "JumpDecorator.cs",
               "DocumentMoniker": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\JumpDecorator.cs",
               "RelativeDocumentMoniker": "decorator\\Decorators\\JumpDecorator.cs",
               "ToolTip": "C:\\Users\\mynam\\Desktop\\design-patterns-dotnet\\design-patterns-dotnet\\decorator\\Decorators\\JumpDecorator.cs",
               "RelativeToolTip": "decorator\\Decorators\\JumpDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T02:12:55.788Z",
               "EditorCaption": ""
